@@ -43,3 +43,15 @@ nav .text-Matricula{
     text-decoration: none;
     color: white;
 }
+#vision{
+    border: none;
+    background: rgb(3, 1, 52);
+    padding: 16px;
+    margin: auto;
+    float: left;
+    color: white;
+    height: 450px;
+}
+.Parqueo{
+    float: left;
+}
